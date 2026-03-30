@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GuardianEye.Application/GuardianEye.Application.csproj" />
+    <Project Path="src/GuardianEye.Core/GuardianEye.Core.csproj" />
+    <Project Path="src/GuardianEye.Infrastructure/GuardianEye.Infrastructure.csproj" />
+    <Project Path="src/GuardianEye.WebApi/GuardianEye.WebApi.csproj" />
+  </Folder>
+</Solution>
